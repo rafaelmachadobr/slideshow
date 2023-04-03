@@ -3,7 +3,7 @@ body {
   padding: 0;
   height: 100vh;
   width: 100vw;
-  background: linear-gradient(72deg, #3debb0, 1%, #8956f3 99%);
+  background: linear-gradient(72deg, #3debb0 1%, #4d23e6 99%);
 }
 
 .content {
